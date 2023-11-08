@@ -1,4 +1,4 @@
-module github.com/imkira/gcp-iap-auth
+module github.com/alexwilkerson/gcp-iap-auth
 
 go 1.16
 
