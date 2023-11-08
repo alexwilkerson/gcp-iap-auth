@@ -1,5 +1,5 @@
 FROM alpine:3.13.2
-LABEL maintainer "Mario Freitas <imkira@gmail.com>"
+LABEL maintainer "Mario Freitas <alexwilkerson@gmail.com>"
 
 WORKDIR /usr/local/bin
 

@@ -19,7 +19,7 @@ deploy:
   - provider: script
     script: make docker-release
     on:
-      repo: imkira/gcp-iap-auth
+      repo: alexwilkerson/gcp-iap-auth
       tags: true
   - provider: releases
     api_key:
@@ -29,5 +29,5 @@ deploy:
       - dist/*
     skip_cleanup: true
     on:
-      repo: imkira/gcp-iap-auth
+      repo: alexwilkerson/gcp-iap-auth
       tags: true

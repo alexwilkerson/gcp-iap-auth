@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/imkira/gcp-iap-auth/jwt"
+	"github.com/alexwilkerson/gcp-iap-auth/jwt"
 	"github.com/namsral/flag"
 )
 
